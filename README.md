@@ -33,7 +33,7 @@ score
 
 匯入競賽官方給的訓練集Training_Dataset_Phase1_Sample
 
-將zip_path的檔名改成此檔案
+將zip_path後的檔名改成此檔案名稱
 
 會自動使用 Whisper large v3 進行語音訓練
 
